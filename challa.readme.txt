@@ -1,0 +1,17 @@
+### PREREQUISITES
+
+## You just need any C++ compiler and editor to run this code like (MinGW and VS Code)
+
+## STEPS TO RUN 
+
+# FIRST FILE - ConsLoss2.cpp
+This file is for 2 consecutive losses
+1) You just have to run the code , everything will be done by code itself.
+
+# SECOND FILE - generalised.cpp
+This is a generalised file for n consecutive losses or win
+1) Run the code .
+2) It will ask for what task you want code to do. 
+3) Give Your Inputs accordingly.
+
+You will get the name of those teams and average of their points
